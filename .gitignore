@@ -1,0 +1,22 @@
+# Ignore environment variables file
+.env
+
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directory
+venv/
+env/
+
+# Ignore data files
+*.json
+*.csv
+
+# Ignore logs
+*.log
+
+# Ignore other unwanted files
+.DS_Store
+.idea/
+.vscode/
